@@ -1,15 +1,9 @@
 # Hi, I'm James 👋 👨‍💻
-I'm a **bioinformatician** who is passionate about using data science to forward medical research and treat human diseases. I'm from Ireland, living in London, and actively looking for opportunities in bioinformatics, medical research, and data science. Here are some facts about me:
+I'm a bioinformatics data scientist at BenevolentAI. I'm passionate about data science and its application in human medicine and drug discovery. Outside of work, I'm also interested in finance and the application of ML in financial markets and trading. Check out my CV [here](https://github.com/JamesDanielOReilly/CV).
 
   👨‍🎓 ◦ I hold a BSc in Mathematics and Computer Science from the University of Bristol and an MSc in Bioinformatics from KU Leuven.
   
-  🔭 ◦ I'm actively looking for opportunities in bioinformatics, medical research, and data science.
-  
-  📚 ◦ I have experience in software engineering, cancer research, NGS analysis, machine learning, VR development and more!
-
-  🎯 ◦ My current research focuses on statistical analysis of tumour heterogeneity in lung cancer.
-  
-  ✍️ ◦ I'm working on an educational blog covering topics in bioinformatics and NGS analysis **(coming soon)**.
+  📚 ◦ I have experience in software engineering, data science, machine learning, , VR development 
 
   ☎️ ◦ Contact me via [email](mailto:jamesdanieloreilly1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jamesdanieloreilly/)
   
@@ -18,7 +12,6 @@ I'm a **bioinformatician** who is passionate about using data science to forward
 ![Python](https://img.shields.io/badge/-Python-0769DA?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-0769DA?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0769DA?style=flat&logo=matlab-schemer&logoColor=white)
-![C#](https://img.shields.io/badge/-C%20Sharp-0769DA?style=flat&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-0769DA?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Tools and Technologies
