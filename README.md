@@ -3,7 +3,7 @@ I'm a bioinformatics data scientist at BenevolentAI. I'm passionate about data s
 
   👨‍🎓 ◦ I hold a BSc in Mathematics and Computer Science from the University of Bristol and an MSc in Bioinformatics from KU Leuven.
   
-  📚 ◦ I have experience in software engineering, data science, machine learning, , VR development 
+  📚 ◦ I have professional experience in software engineering, data science, machine learning and drug discovery.
 
   ☎️ ◦ Contact me via [email](mailto:jamesdanieloreilly1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jamesdanieloreilly/)
   
